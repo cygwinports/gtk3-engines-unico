@@ -1,0 +1,5 @@
+inherit gnome2
+
+HOMEPAGE="https://launchpad.net/unico"
+SRC_URI="http://launchpad.net/unico/1.0/${PV}/+download/unico-${PV}.tar.gz"
+SRC_DIR="unico-${PV}"
